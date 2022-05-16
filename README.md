@@ -5,13 +5,14 @@
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jason7jl&layout=compact"/>
 
-
-
 <br />
 
 🤞🏻 I’m currently open for a new job <br />
 🔭 I’m currently learning Java<br />
 🌱 I love play tennis <br />
+⚡ Fun fact: I have been Egypt <br />
+
+
 📨 Connect and message me on [LinkedIn](https://www.linkedin.com/in/william-foksman-4892381a0/)<br />
 📄 Want my [Resume?](https://docs.google.com/document/d/1roh4q5I2XRMd9J5MHj44BDsErRL3QYQ5ohTHziInksk/edit?usp=sharing) <br />
 
