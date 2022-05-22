@@ -9,8 +9,8 @@
 
 🤞🏻 I’m currently open for a new job <br />
 🔭 I’m currently learning Java<br />
-🌱 I love play tennis <br />
-⚡ Fun fact: I have been Egypt <br />
+🌱 I love playing tennis <br />
+⚡ Fun fact: I have been to Egypt <br />
 
 
 📨 Connect and message me on [LinkedIn](https://www.linkedin.com/in/william-foksman-4892381a0/)<br />
