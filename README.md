@@ -1,28 +1,29 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px"> DO what you LOVE, LOVE what you DO!   </h1>
+<h3 align="center">Do what you Love, Love what you Do!   </h3>
 
-<h3 align="center"> William Foksman </h3>
+
+<h2 align="center"> William Foksman </h2>
+
 <h4 align="center">✨ JAVA Backend Developer ✨</h4>
 <br />
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jason7jl&layout=compact"/>
 
-<br />
+<p align="left">          
+  🤞🏻 I’m currently open for a new job <br />
+  🔭 I’m looking to learn React | Swift | Node.js<br />
+  🔭 I’m currently learning Java | Python | HTML | CSS | JS <br />
+  🌱 I love playing tennis <br />
+  ⚡ Fun fact: I have been to Egypt <br />
 
-🤞🏻 I’m currently open for a new job <br />
-🔭 I’m looking to learn React | Swift | Node.js<br />
-🔭 I’m currently learning Java | Python | HTML | CSS | JS <br />
-🌱 I love playing tennis <br />
-⚡ Fun fact: I have been to Egypt <br />
-
-🛠 Skills<br />
-💻 Java <br />
-🌐 React | Angular | HTML | CSS | JavaScript<br />
-☁ AWS Lambda | API Gateway | DynamoDB | S3 | Cloudformation | CloudWatch | EC2<br />
+  🛠 Skills<br />
+  💻 Java <br />
+  🌐 React | Angular | HTML | CSS | JavaScript<br />
+  ☁ AWS Lambda | API Gateway | DynamoDB | S3 | Cloudformation | CloudWatch | EC2<br />
 
 
-📨 Connect and message me on [LinkedIn](https://www.linkedin.com/in/william-foksman-4892381a0/)<br />
-📄 Want my [Resume?](https://docs.google.com/document/d/1roh4q5I2XRMd9J5MHj44BDsErRL3QYQ5ohTHziInksk/edit?usp=sharing) <br />
-
+  📨 Connect and message me on [LinkedIn](https://www.linkedin.com/in/william-foksman-4892381a0/)<br />
+  📄 Want my [Resume?](https://docs.google.com/document/d/1roh4q5I2XRMd9J5MHj44BDsErRL3QYQ5ohTHziInksk/edit?usp=sharing) <br />
+</p>
 
 <br />
 <br />
