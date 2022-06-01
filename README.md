@@ -12,7 +12,7 @@
   🤞🏻 I’m currently open for a new job <br />
   🔭 I’m looking to learn React | Node.js | Python <br />
   🔭 I’m currently learning Java| HTML | CSS | JS <br />
-  🌱 I love playing tennis <br />
+  🌱 I love playing volleyball and tennis  <br />
   ⚡ Fun fact: I have been to Egypt <br />
 
   🛠 Skills<br />
