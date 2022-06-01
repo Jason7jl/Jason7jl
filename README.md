@@ -17,8 +17,9 @@
 
   🛠 Skills<br />
   💻 Java <br />
+   ☁ AWS Lambda | API Gateway | DynamoDB | S3 | Cloudformation | CloudWatch | EC2<br />
   🌐 React | Angular | HTML | CSS | JavaScript<br />
-  ☁ AWS Lambda | API Gateway | DynamoDB | S3 | Cloudformation | CloudWatch | EC2<br />
+ 
 
 
   📨 Connect and message me on [LinkedIn](https://www.linkedin.com/in/william-foksman-4892381a0/)<br />
