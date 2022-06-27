@@ -18,8 +18,8 @@
   🛠 Skills<br />
   
   
-• Java (Caretto 11, Dagger, Jackson, J Unit, Mockito)<br />
-• AWS (Amplify, Cloudformation, DynamoDB, IAM, Lambda)<br />
+• Java (Coretto 11, Dagger, Jackson, J Unit, Mockito)<br />
+• AWS (Amplify,ECS,EC2,Cloudformation, DynamoDB, IAM, Lambda)<br />
 • OOP (Inheritance, Polymorphism, Encapsulation, Abstraction)<br />
 • Testing (Integration, Unit)<br />
 • Agile Project Management (Trello, Jira, Scrum)<br />
