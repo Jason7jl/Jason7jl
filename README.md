@@ -16,9 +16,13 @@
   ⚡ Fun fact: I have been to Egypt <br />
 
   🛠 Skills<br />
-  💻 Java <br />
-   ☁ AWS Lambda | API Gateway | DynamoDB | S3 | Cloudformation | CloudWatch | EC2<br />
-  🌐 React | Angular | HTML | CSS | JavaScript<br />
+  
+  
+• Java (Caretto 11, Dagger, Jackson, J Unit, Mockito)<br />
+• AWS (Amplify, Cloudformation, DynamoDB, IAM, Lambda)<br />
+• OOP (Inheritance, Polymorphism, Encapsulation, Abstraction)<br />
+• Testing (Integration, Unit)<br />
+• Agile Project Management (Trello, Jira, Scrum)<br />
  
 
 
@@ -35,8 +39,9 @@
 
 <div align="center">
 
-<a href="https://1000logos.net/java-logo/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="Java" width="60" /> </a> <a href="https://1000logos.net/java-logo/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="60" /> </a> </a> <a href="https://1000logos.net/java-logo/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg" alt="AWS Lambda" width="60" /> </a> <a href="https://1000logos.net/java-logo/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="My SQL" width="60" /> </a>
+<a href="https://1000logos.net/java-logo/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="Java" width="60" /> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" /> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" /> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" /> </a>  
+<a href="https://1000logos.net/java-logo/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="60" /> </a> </a> <a href="https://1000logos.net/java-logo/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg" alt="AWS Lambda" width="60" /> </a> <a href="https://1000logos.net/java-logo/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="My SQL" width="60" /> </a>
  
  
 
