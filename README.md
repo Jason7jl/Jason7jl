@@ -9,7 +9,7 @@
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jason7jl&layout=compact"/>
 
 <p align="left">          
-  🤞🏻 I’m currently open for a new job <br />
+  🤞🏻 I’m currently looking for a new job <br />
   🔭 I’m looking to learn React | Node.js | Python <br />
   🔭 I’m currently learning Java| HTML | CSS | JS <br />
   🌱 I love playing volleyball and tennis  <br />
