@@ -18,7 +18,7 @@
   🛠 Skills<br />
   
   
-• Java (Coretto 11, Dagger, JUnit, Mockito)<br />
+• Java (Corretto 11, Dagger, JUnit, Mockito)<br />
 • AWS (Lambda, ECS, EC2, Cloudformation, DynamoDB, IAM, Amplify)<br />
 • OOP (Inheritance, Polymorphism, Encapsulation, Abstraction)<br />
 • Testing (Integration, Unit)<br />
